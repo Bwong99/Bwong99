@@ -17,7 +17,7 @@
 
 - **UBC OpenRobotics Custom Telemetry Acquisition GUI**
   - Designed custom GUI elements in Figma
-  - Used WXWidgets C++ library to develop telemetry data displaying GUI
+  - Used wxWidgets C++ library to develop telemetry data displaying GUI
   - GUI used to test robot sensors
 
 - **ESP32 Sensor Telemetry System**
