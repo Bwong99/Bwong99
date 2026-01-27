@@ -7,32 +7,14 @@
 ---
 
 ## 🔧 Technical Skills
-- **Languages:** C, C++, Java, RISC-V Assembly, ARM Assembly, System Verilog
-- **Tools:** Git, Linux, VS Code, Arduino, Quartus, ModelSim, FPGAs
-- **Concepts:** Embedded systems, OS fundamentals, signals & interrupts
-
----
-
-## 📌 Featured Projects
-
-- **UBC OpenRobotics Custom Telemetry Acquisition GUI**
-  - Designed custom GUI elements in Figma
-  - Used wxWidgets C++ library to develop telemetry data displaying GUI
-  - GUI used to test robot sensors
-
-- **ESP32 Sensor Telemetry System**
-  - Embedded C firmware with Node.js backend
-  - Streams real-time sensor data to a local web dashboard
-
-- **Simple CPU**
-  - System Verilog
-  - Designed the datapath, control logic, memory mapped I/O
-  - Simulated and tested using ModelSim before FPGA deployment
+- **Languages:** C, C++, Java, Assembly (RISC-V, ARM), System Verilog
+- **Digital Desgin:** RTL Design, synchronous logic, FSMs, datapath & control, FPGA Development,                       Quartus, ModelSim, waveform debugging
+- **Embedded/Tools:** Git, Linux/Cli, GDB, Node.js, JSON, Visual Studio, Figma
     
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/bradleywong99/
+- LinkedIn: linkedin.com/in/bradleywong99/
 - Email: bradleywong99@gmail.com
 
 <!--
