@@ -7,9 +7,9 @@
 ---
 
 ## 🔧 Technical Skills
-- **Languages:** C, C++, Java, Assembly (RISC-V, ARM), System Verilog
-- **Digital Desgin:** RTL Design, synchronous logic, FSMs, datapath & control, FPGA Development,                       Quartus, ModelSim, waveform debugging
-- **Embedded/Tools:** Git, Linux/Cli, GDB, Node.js, JSON, Visual Studio, Figma
+- **Languages:** Python, C, C++, Java, Assembly (RISC-V, ARM), System Verilog
+- **Digital Desgin:** RTL Design, synchronous logic, FSMs, datapath & control, FPGA Development, Quartus, ModelSim, waveform debugging
+- **Embedded/Tools:** Git, Linux/Cli, GDB, JSON, Visual Studio, Figma
     
 ---
 
